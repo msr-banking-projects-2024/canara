@@ -1,3 +1,6 @@
 this is also a string prog 
 
-hello alll string
+hello alll strindjakjdaka
+
+dadadaad:wq
+g
